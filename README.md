@@ -1,5 +1,6 @@
 # Transport
 ## Final Year Project.
-### gole of the web application to store data for vechial department first 
-### future gole is to mention log book for every vechial.
+### Gole of the web application to store data for vehicle detail.
+#### Add and view vehicle update.
+### future gole is to mention log book for every vehicle.
 
